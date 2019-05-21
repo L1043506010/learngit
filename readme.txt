@@ -3,5 +3,4 @@ git is a free software;
 
 git not bad;
 
-Creating a new branch is quick.
-asdfa:
+Creating a new branch is quick and simple.
