@@ -3,4 +3,4 @@ git is a free software;
 
 git not bad;
 
-my stupid boss own my money;
+Creating a new branch is quick.
